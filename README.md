@@ -1,4 +1,4 @@
-# game-consgine
+# game-consign
 
 ## Requirement
 - Node.js `>= 14.0.0`
