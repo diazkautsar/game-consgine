@@ -16,7 +16,7 @@ module.exports = {
 
             const { data } = await axios({
                 method: 'get',
-                url: '/pokemon?limit=50',
+                url: '/pokemon?limit=200',
             })
 
             let models = {
